@@ -47,7 +47,7 @@
 
 ## 版本分发
 
-
+[Lsposed Repo](https://github.com/Xposed-Modules-Repo/cn.liuyi.hyper_freeform_x/releases)
 
 ## 支持作者
 
